@@ -1,12 +1,27 @@
-# React + Vite
+# EliteHosting - Premium Web Hosting Solutions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web application for EliteHosting services built with React and React Router.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design that works on desktop and mobile devices
+- Multi-page navigation with React Router
+- Authentication page with login/signup modes
+- Services overview (Hosting, Domain, About, Contact)
+- Clean and professional UI with interactive elements
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- React Router
+- Tailwind CSS
+- React Icons
+
+## Getting Started
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/Qasim-asb/Hosting-website-React-Vite.git
+cd Hosting-website-React-Vite
